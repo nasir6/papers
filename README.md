@@ -1,3 +1,4 @@
-### Relevant Papers published recently
+### Relevant papers published recently
 
-- [NeurIPS](NeurIPS-2020.md)
+- [NeurIPS 2020](NeurIPS-2020.md)
+- [CVPR 2020](cvpr-2020.md)
