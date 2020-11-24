@@ -5,4 +5,4 @@
 - [ICML 2020](icml-2020.md)
 - [ICML 2020](icml-2020.md)
 - [MLforHC](mlforhc-2020.md)
-- [ECCV] (eccv-2020.md)
+- [ECCV](eccv-2020.md)
